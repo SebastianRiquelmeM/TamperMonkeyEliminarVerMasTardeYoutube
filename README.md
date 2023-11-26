@@ -31,4 +31,4 @@ Elimina automáticamente los videos de la lista "Ver Más Tarde" de YouTube con 
 
 ## Licencia
 
-Este script está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este script está bajo la Licencia MIT.
