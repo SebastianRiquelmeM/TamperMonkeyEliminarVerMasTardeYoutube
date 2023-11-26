@@ -1,7 +1,7 @@
 # Limpieza de Lista "Ver Más Tarde" de YouTube con Botones Animados
 
 ![GitHub stars](https://img.shields.io/github/stars/SebastianRiquelmeM/TamperMonkeyEliminarVerMasTardeYoutube?style=social)
-[![Open in Greasy Fork](https://img.shields.io/badge/Open%20in-Greasy%20Fork-green)](https://greasyfork.org/es/scripts/xxxxx)
+[![Open in Greasy Fork](https://img.shields.io/badge/Open%20in-Greasy%20Fork-green)](https://greasyfork.org/es/scripts/480797-limpieza-de-lista-ver-m%C3%A1s-tarde-de-youtube-con-botones-animados)
 
 Elimina automáticamente los videos de la lista "Ver Más Tarde" de YouTube con botones animados.
 
