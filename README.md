@@ -17,7 +17,7 @@ Elimina automáticamente los videos de la lista "Ver Más Tarde" de YouTube con 
 ## Instalación
 
 1. Instala [Tampermonkey](https://www.tampermonkey.net/) en tu navegador.
-2. [Haz clic aquí para instalar el script desde Greasy Fork](https://greasyfork.org/es/scripts/xxxxx).
+2. [Haz clic aquí para instalar el script desde Greasy Fork](https://greasyfork.org/es/scripts/480797-limpieza-de-lista-ver-m%C3%A1s-tarde-de-youtube-con-botones-animados).
 
 ## Uso
 
