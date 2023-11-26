@@ -2,11 +2,22 @@
 // @name         Limpieza de Lista "Ver Más Tarde" de YouTube con Botones Animados
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Elimina automáticamente los videos de la lista "Ver Más Tarde" de YouTube con botones animados
-// @author       You
+// @description  Elimina automáticamente los videos de la lista "Ver Más Tarde" de YouTube. Añade botones con animaciones para una mejor interacción.
+// @author       Sebastián Riquelme - GitHub: SebastianRiquelmeM
 // @match        https://www.youtube.com/playlist?list=WL*
 // @grant        none
+// @license      MIT
+// @supportURL   https://github.com/SebastianRiquelmeM/TamperMonkeyEliminarVerMasTardeYoutube/issues
 // ==/UserScript==
+
+/*
+    Este script fue desarrollado por Sebastián Riquelme. Contribuciones y sugerencias son bienvenidas en el repositorio de GitHub:
+    https://github.com/SebastianRiquelmeM/TamperMonkeyEliminarVerMasTardeYoutube
+
+    Descripción:
+    Este UserScript para Tampermonkey facilita la eliminación de videos de la lista "Ver Más Tarde" en YouTube.
+    Proporciona una interfaz amigable con botones animados para comenzar y detener el proceso de eliminación.
+*/
 
 (function () {
 	"use strict";
